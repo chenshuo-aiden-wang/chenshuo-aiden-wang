@@ -55,11 +55,6 @@ Founder @ AltoAuto · B.S. ME @ UMN → M.S. ME @ UMN (Expected May 2028)
 - Performing conjugate heat transfer CFD in Ansys Fluent to predict junction temperature, pressure drop, and coolant flow distribution
 - Developing analytical thermal models (thermal resistance network, heat transfer correlations) to validate CFD results
 
-**FSAE-E** — Mechanical, Battery &nbsp;·&nbsp; *Jan 2026 – Present*
-- Built an internal resistance test rig for cell characterization, driving a selection that cut pack cost by 4×.
-- Designed PA-CF25 module structures in SolidWorks, validated by in-house tensile testing yielding +260% strength.
-- Resolved a 14-cell tolerance stack-up using a compression-foam architecture to maintain uniform structural pressure
-
 **UMN Solar Vehicle** — Mechanical, Battery Thermal &nbsp;·&nbsp; *Nov 2022 – May 2025*
 - Designed the battery enclosure with integrated air intake and exhaust routing in SolidWorks
 - Placed NTC thermistors on each cell group and configured BMS thermal cutoff thresholds
