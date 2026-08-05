@@ -24,7 +24,7 @@
 
 ## About
 
-Mechanical engineer focused on **thermal management and liquid cooling**.
+Mechanical engineer @ UMN.
 I model two-phase cooling loops in Simulink/Simscape, design battery thermal systems, and calibrate thermal models against hardware bench data.
 Alongside this I build CFD/FEA automation pipelines and physics-aware ML surrogates for thermal and structural fields.
 Founder @ AltoAuto · B.S. ME @ UMN → M.S. ME @ UMN (Expected May 2028)
